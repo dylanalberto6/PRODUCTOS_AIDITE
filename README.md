@@ -10,5 +10,5 @@ Archivos principales:
 
 Pendiente:
 
-- Reemplazar cada texto `Precio fijo: por confirmar` por el precio final de cada producto.
+- Reemplazar cada texto `Precio fijo: bajo reserva` por el precio final de cada equipo cuando este disponible.
 - Publicar la carpeta en un servicio como Netlify, Vercel o GitHub Pages para obtener un link publico.
